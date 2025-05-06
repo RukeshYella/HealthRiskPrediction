@@ -90,6 +90,9 @@ The app will launch locally at `http://127.0.0.1:8050/`.
 ## 📊 Sample Screenshots
 
 👉 (You will insert screenshots here showing Home page, Calculator, Tables, etc.)
+![image](https://github.com/user-attachments/assets/ee0596ec-ad7d-4b93-914c-37631630cc52)
+![image](https://github.com/user-attachments/assets/7134725b-6c84-477c-b2cb-2d7d51f56651)
+![image](https://github.com/user-attachments/assets/7c27dddc-f16b-446d-b719-40a85150bf18)
 
 ---
 
