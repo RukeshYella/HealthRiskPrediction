@@ -49,8 +49,8 @@ It provides real-time risk scoring, automated classification, historical trend t
 
 1️⃣ **Clone the repository**
 ```bash
-git clone https://github.com/RukeshYella/HealthRiskPrediction
-cd HealthRiskPrediction
+git clone https://github.com/RukeshYella/Hospital-Risk-Intelligence-Dashboard
+cd Hospital Risk Intelligence Dashboard
 ```
 
 2️⃣ **Create a virtual environment**
