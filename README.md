@@ -50,7 +50,7 @@ It provides real-time risk scoring, automated classification, historical trend t
 1️⃣ **Clone the repository**
 ```bash
 git clone https://github.com/RukeshYella/HealthRiskPrediction
-cd health-risk-dashboard
+cd HealthRiskPrediction
 ```
 
 2️⃣ **Create a virtual environment**
