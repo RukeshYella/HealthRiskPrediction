@@ -49,7 +49,7 @@ It provides real-time risk scoring, automated classification, historical trend t
 
 1️⃣ **Clone the repository**
 ```bash
-git clone https://github.com/your-username/health-risk-dashboard.git
+git clone https://github.com/RukeshYella/HealthRiskPrediction
 cd health-risk-dashboard
 ```
 
